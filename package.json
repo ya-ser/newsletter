@@ -1,0 +1,19 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "Newsletter app using Mailchimp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ya-ser/newsletter.git"
+  },
+  "author": "Yaser Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ya-ser/newsletter/issues"
+  },
+  "homepage": "https://github.com/ya-ser/newsletter#readme"
+}
